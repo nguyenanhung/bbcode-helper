@@ -1,4 +1,7 @@
-[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/bbcode-helper/v)](https://packagist.org/packages/nguyenanhung/bbcode-helper) [![Total Downloads](http://poser.pugx.org/nguyenanhung/bbcode-helper/downloads)](https://packagist.org/packages/nguyenanhung/bbcode-helper) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/bbcode-helper/v/unstable)](https://packagist.org/packages/nguyenanhung/bbcode-helper) [![License](http://poser.pugx.org/nguyenanhung/bbcode-helper/license)](https://packagist.org/packages/nguyenanhung/bbcode-helper) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/bbcode-helper/require/php)](https://packagist.org/packages/nguyenanhung/bbcode-helper)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/bbcode-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/bbcode-helper)
+[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/bbcode-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/bbcode-helper)
+[![License](https://img.shields.io/packagist/l/nguyenanhung/bbcode-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/bbcode-helper)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/bbcode-helper/php)](https://packagist.org/packages/nguyenanhung/bbcode-helper)
 
 # BBCode Helper
 
